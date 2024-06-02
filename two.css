@@ -1149,7 +1149,7 @@ footer #part2 p {
 
   #h1div {
     width: 85.5%;
-    margin-top: 20vw;
+    margin-top: 40vw;
     text-align: center;
   }
 
@@ -1163,7 +1163,7 @@ footer #part2 p {
     height: 27vh;
     width: 89%;
     /* background-color: cadetblue; */
-    margin: 7vw 0;
+    margin: 15vw 0;
     overflow: hidden;
   }
 
@@ -1228,7 +1228,7 @@ footer #part2 p {
 
   #p2 a {
     /* background-color:cadetblue; */
-    margin-left: 13vw;
+    margin-left: 3vw;
     font-size: 14px;
   }
 
@@ -1433,7 +1433,7 @@ footer #part2 p {
 
   
 #part1elm2 img {
-  width: 55%;
+  width: 60%;
 }
 
   #part1elm2 #elm2sntr {
