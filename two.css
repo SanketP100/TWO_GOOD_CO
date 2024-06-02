@@ -1133,11 +1133,12 @@ footer #part2 p {
   }
 
   #nav-part2 #links a {
-    font-size: 13.5px;
+    font-size: 12.5px;
+    display: none;
   }
 
   #nav-part2 #icons {
-    padding: 1.8vw 2vw;
+    padding: 1.8vw 3vw;
   }
 
   #page1 {
@@ -1171,8 +1172,8 @@ footer #part2 p {
     padding: 1px;
   }
 
-  #page1fr h5 {
-    font-size: 13.5px;
+  #page1fr h5{
+    font-size: 11.5px;
   }
 
   #page2 {
@@ -1201,7 +1202,7 @@ footer #part2 p {
     top: 0;
     left: 0;
     transform: translate(13%, 0%);
-    font-size: 4vw;
+    font-size: 4.5vw;
     text-align: center;
     line-height: 9vw;
   }
@@ -1211,13 +1212,13 @@ footer #part2 p {
     font-size: 17px;
     line-height: 5vw;
     letter-spacing: 0.6px;
-    margin-top: 7vw;
+    margin-top: 15vw;
   }
 
   #p2 p {
     /* background-color: aqua; */
     width: 90%;
-    padding-left: 50px;
+    padding-left: 3vw;
   }
 
   #p2 p:nth-child(2) {
@@ -1227,8 +1228,8 @@ footer #part2 p {
 
   #p2 a {
     /* background-color:cadetblue; */
-    margin-left: 12vw;
-    font-size: 15px;
+    margin-left: 13vw;
+    font-size: 14px;
   }
 
   #page4 {
@@ -1238,19 +1239,20 @@ footer #part2 p {
 
   #page4 .shop {
     height: 55vh;
-    width: 70vw;
+    width: 75vw;
     /* background-color: #000; */
     margin-bottom: 16.5vw;
   }
 
   #page4 .shop a {
-    font-size: 14px;
+    font-size: 13.5px;
     line-height: 1.8;
     letter-spacing: 0.9px;
+    /* background-color: red; */
   }
 
   #page4 .shop span {
-    font-size: 14px;
+    font-size: 13px;
   }
 
   #page4fr {
@@ -1258,7 +1260,7 @@ footer #part2 p {
   }
 
   #page4fr h5 {
-    /* font-size: 13.5px; */
+    font-size: 11.5px;
     color: #000000a1;
   }
 
@@ -1267,14 +1269,14 @@ footer #part2 p {
   }
 
   #page5-part2 #part2-h1 {
-    width: 95%;
+    width: 100%;
     padding: 50px;
     margin-top: 25vw;
     /* background-color: blueviolet; */
   }
 
   #part2-h1 h1 {
-    font-size: 5vw;
+    font-size: 6vw;
     line-height: 1.1;
   }
 
@@ -1315,7 +1317,7 @@ footer #part2 p {
     display: flex;
     padding: 0 3vw;
     gap: 2vw;
-    height: 55vw;
+    height: 60vw;
     width: 100%;
     position: relative;
     overflow: hidden;
@@ -1426,7 +1428,13 @@ footer #part2 p {
     top: -70px;
     left: 0px;
     align-items: flex-start;
+    /* background-color: #c30d0d; */
   }
+
+  
+#part1elm2 img {
+  width: 55%;
+}
 
   #part1elm2 #elm2sntr {
     display: none;
@@ -1443,10 +1451,11 @@ footer #part2 p {
   }
 
   footer #part2 {
-    height: 50vh;
+    height: fit-content;
     align-items: start;
-    padding: 3.5vw 3vw;
+    padding: 1vw 3vw;
     margin-top: 15vw;
+    /* background-color: red; */
   }
 
   #part2 #part2-p {
